@@ -1,0 +1,22 @@
+{
+  "name": "luunode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dvex/luunode.git"
+  },
+  "author": "Luu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dvex/luunode/issues"
+  },
+  "homepage": "https://github.com/Dvex/luunode#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
